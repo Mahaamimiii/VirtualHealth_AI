@@ -1,0 +1,6 @@
+Test Name,Result,Unit,Biological Ref Interval
+,Pre-Diabetes:,5.7%,-
+,Non-Diabetes:,<,5.7%
+Poor Control :,>,7.0,%
+Good Control,:,6.0-7.0,%
+Area,%Area,%Time,(min)Area

@@ -1,0 +1,4 @@
+PatientID,Name,Age,Gender,Contact,TestID,TestName,TestDate,TestTime,TestResult,NormalRangeMin,NormalRangeMax,DiagnosisStatus,DoctorComments,FollowUpRequired,LabID,LabName,LabLocation
+P001,John Doe,45,Male,9876543210,T001,Hemoglobin,2024-12-25,10:30,13.5,13.0,17.0,Normal,Healthy,No,L001,HealthLab,New York
+P002,Jane Smith,30,Female,9876543211,T002,WBC Count,2024-12-25,10:45,11.0,4.0,11.0,Normal,Healthy,No,L001,HealthLab,New York
+P003,Alex Brown,50,Male,9876543212,T003,Cholesterol,2024-12-25,11:00,250.0,125.0,200.0,High,Requires diet change and medication,Yes,L002,Advanced Diagnostics,Los Angeles
